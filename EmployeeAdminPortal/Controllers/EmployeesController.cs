@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace EmployeeAdminPortal.Controllers
 {
     // localhost:XXX/api/employees
+    // Test
     [Route("api/[controller]")]
     [ApiController]
     public class EmployeesController : ControllerBase
